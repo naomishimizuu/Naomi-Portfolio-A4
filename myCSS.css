@@ -15,45 +15,45 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #67A4FF;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
-	float: left;
+	float: center;
 	width: 100%;
 	height: 80px;
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #6ECC52;
 	margin: 0px;
 	padding: 5;
-	float: left;
+	float: center;
 	width: 100%;
 	height: 60px;
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #FFFFFF;
 	margin: 0px;
-	float: left;
+	float: center;
 	width: 100%;
 	height: 400px;
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #CC5C63;
 	margin: 0px;
-	float: left;
+	float: center;
 	width: 100%;
 	height: 50px;
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #63AEFF;
 }
 a:visited {
-     color: #000;
+     color: #820DFF;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
